@@ -1,5 +1,0 @@
-﻿  frmMain.cpp
-C:\Users\okashnik_i5\source\repos\OS_metod\BubbleSort.h(65,35): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
-C:\Users\okashnik_i5\source\repos\OS_metod\frmMain.h(667,20): warning C4018: '<': signed/unsigned mismatch
-  BubbleSort.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  OS_metod.vcxproj -> C:\Users\okashnik_i5\source\repos\OS_metod\Debug\OS_metod.exe

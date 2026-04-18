@@ -1,6 +1,0 @@
-﻿  frmMain.cpp
-V:\Patriot\Programs\Project\windows-sentiment-analyzer\OS_metod\SentimentService.h(97,37): warning C4066: characters beyond first in wide-character constant ignored
-V:\Patriot\Programs\Project\windows-sentiment-analyzer\OS_metod\SemantorMain.h(355,50): error C2039: 'OK': is not a member of 'System::Windows::Forms::Form::DialogResult'
-V:\Patriot\Programs\Project\windows-sentiment-analyzer\OS_metod\SemantorMain.h(355,1): error C2065: 'OK': undeclared identifier
-V:\Patriot\Programs\Project\windows-sentiment-analyzer\OS_metod\SemantorMain.h(374,50): error C2039: 'OK': is not a member of 'System::Windows::Forms::Form::DialogResult'
-V:\Patriot\Programs\Project\windows-sentiment-analyzer\OS_metod\SemantorMain.h(374,1): error C2065: 'OK': undeclared identifier

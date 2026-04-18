@@ -1,0 +1,19 @@
+﻿  frmAbout.cpp
+  frmMain.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+V:\GitHub\OS_Kurs_Bahrii\windows-sentiment-analyzer\OS_metod\SentimentService.h(97,37): warning C4066: characters beyond first in wide-character constant ignored
+  (compiling source file 'frmMain.cpp')
+  
+V:\GitHub\OS_Kurs_Bahrii\windows-sentiment-analyzer\OS_metod\SemantorMain.h(354,50): error C2039: 'OK': is not a member of 'System::Windows::Forms::Form::DialogResult'
+  (compiling source file 'frmMain.cpp')
+  
+V:\GitHub\OS_Kurs_Bahrii\windows-sentiment-analyzer\OS_metod\SemantorMain.h(354,50): error C2065: 'OK': undeclared identifier
+  (compiling source file 'frmMain.cpp')
+  
+V:\GitHub\OS_Kurs_Bahrii\windows-sentiment-analyzer\OS_metod\SemantorMain.h(373,50): error C2039: 'OK': is not a member of 'System::Windows::Forms::Form::DialogResult'
+  (compiling source file 'frmMain.cpp')
+  
+V:\GitHub\OS_Kurs_Bahrii\windows-sentiment-analyzer\OS_metod\SemantorMain.h(373,50): error C2065: 'OK': undeclared identifier
+  (compiling source file 'frmMain.cpp')
+  
+  Generating Code...

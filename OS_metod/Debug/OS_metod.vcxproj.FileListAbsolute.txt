@@ -1,0 +1,5 @@
+C:\Users\okashnik_i5\source\repos\OS_metod\Debug\OSmetod.frmAbout.resources
+C:\Users\okashnik_i5\source\repos\OS_metod\Debug\OSmetod.frmMain.resources
+C:\Users\okashnik_i5\source\repos\OS_metod\Debug\OS_metod.vcxproj.GenerateResource.cache
+C:\Users\okashnik_i5\source\repos\OS_metod\Debug\OS_metod.exe
+C:\Users\okashnik_i5\source\repos\OS_metod\Debug\OS_metod.vcxproj.AssemblyReference.cache

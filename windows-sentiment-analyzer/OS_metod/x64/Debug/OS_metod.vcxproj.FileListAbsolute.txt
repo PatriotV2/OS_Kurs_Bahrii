@@ -1,5 +1,0 @@
-C:\Users\okashnik_i5\Documents\ВНТУ\ОС_КУРСОВА\OS_metod\x64\Debug\OS_metod.vcxproj.AssemblyReference.cache
-C:\Users\okashnik_i5\Documents\ВНТУ\ОС_КУРСОВА\OS_metod\x64\Debug\OSmetod.frmAbout.resources
-C:\Users\okashnik_i5\Documents\ВНТУ\ОС_КУРСОВА\OS_metod\x64\Debug\OSmetod.frmMain.resources
-C:\Users\okashnik_i5\Documents\ВНТУ\ОС_КУРСОВА\OS_metod\x64\Debug\OS_metod.vcxproj.GenerateResource.cache
-C:\Users\okashnik_i5\Documents\ВНТУ\ОС_КУРСОВА\OS_metod\x64\Debug\OS_metod.exe
